@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-
+import { useEffect } from "react";
 const One = () => {
   useEffect(() => {
     console.log("from one component");
